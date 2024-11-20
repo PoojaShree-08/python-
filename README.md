@@ -11,3 +11,6 @@
 
 4.SIMLPLE INTEREST AND COMPOUND INTEREST
 ![image](https://github.com/user-attachments/assets/8dc5cd1d-be89-481e-b6b1-1aa8a4fa22b9)
+
+5.ARMSTRONG NUMBER
+![image](https://github.com/user-attachments/assets/1187d7e5-830c-40eb-8bda-6b78b046c723)
