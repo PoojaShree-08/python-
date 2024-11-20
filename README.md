@@ -17,3 +17,6 @@
 
 6.PRIME NUMBER OR NOT
 ![image](https://github.com/user-attachments/assets/3bfcccd4-b613-4fa5-9841-4fc7f70a4eaf)
+
+7.PRIME NUMBERS IN A GIVEN RANGE
+![image](https://github.com/user-attachments/assets/de2b75d8-37a3-46cc-a520-60fc9bc92f04)
