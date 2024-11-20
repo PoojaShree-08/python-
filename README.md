@@ -5,3 +5,6 @@
 
 2.MAXIMUM OF TWO NUMBERS 
 ![image](https://github.com/user-attachments/assets/d9fe326b-80c0-4da3-8764-1d577d2885c2)
+
+3.FACTORIAL OF NUMBER
+![image](https://github.com/user-attachments/assets/2ea783b4-7a72-407a-b18b-41ea1894962d)
