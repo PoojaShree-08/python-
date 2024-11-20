@@ -14,3 +14,6 @@
 
 5.ARMSTRONG NUMBER
 ![image](https://github.com/user-attachments/assets/1187d7e5-830c-40eb-8bda-6b78b046c723)
+
+6.PRIME NUMBER OR NOT
+![image](https://github.com/user-attachments/assets/3bfcccd4-b613-4fa5-9841-4fc7f70a4eaf)
