@@ -27,3 +27,7 @@
 
 10.AREA OF CIRCLE
 ![image](https://github.com/user-attachments/assets/10e57b20-1b64-44d8-a70d-1480993f4871)
+
+11.FOUR TYPES OF PATTERN 
+![image](https://github.com/user-attachments/assets/ebbf33af-f631-4d28-83b6-3990e0560f13)
+
