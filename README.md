@@ -20,3 +20,10 @@
 
 7.PRIME NUMBERS IN A GIVEN RANGE
 ![image](https://github.com/user-attachments/assets/de2b75d8-37a3-46cc-a520-60fc9bc92f04)
+
+
+9.SUM OF SQUARES OF NATURAL NUMBERS 
+![image](https://github.com/user-attachments/assets/0c0148a3-3327-438a-978d-9d45ea209aaa)
+
+10.AREA OF CIRCLE
+![image](https://github.com/user-attachments/assets/10e57b20-1b64-44d8-a70d-1480993f4871)
