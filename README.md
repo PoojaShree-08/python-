@@ -31,3 +31,15 @@
 11.FOUR TYPES OF PATTERN 
 ![image](https://github.com/user-attachments/assets/ebbf33af-f631-4d28-83b6-3990e0560f13)
 
+12.SUM OF AN ARRAY
+![image](https://github.com/user-attachments/assets/c10405af-3473-40a0-af63-ff8330bb3977)
+
+13.LARGEST NUMBER IN AN ARRAY
+![image](https://github.com/user-attachments/assets/d933789b-56e9-404a-ab61-77370ccff50c)
+
+14.SPLIT AND MERGE ARRAY
+![image](https://github.com/user-attachments/assets/f7f3eed8-71d1-478b-b3aa-b61cbd7cc2ce)
+
+15.
+
+
